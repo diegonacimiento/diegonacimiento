@@ -29,6 +29,7 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
 ## Featured Projects
 ### Tasking
 **Description**: A full-stack task management application covering everything from the user interface to the database.
+
 **Key features:**
 - User authentication and authorization.
 - Comprehensive task management with categories and priorities.
