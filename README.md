@@ -53,7 +53,7 @@ I'm excited about the upcoming technologies I'm planning to learn:
 - **Nest.js:** To develop scalable and modular backends using TypeScript.
 - **MongoDB:** To explore NoSQL databases and their efficient integration with Node.js.
 
-If you have an interesting project or just want to chat about code, feel free to reach out! I'm always open to new challenges and collaborations.
+If you've got a cool project in mind or just want to chat about code, hit me up! I'm always down for new challenges and collaborations.
 
 ## Connect with Me
 
