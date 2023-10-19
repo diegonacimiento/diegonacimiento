@@ -18,6 +18,7 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
         "React Native",
         "Node.js"
         "Express.js",
+        "Nest.js",
         "Git",
         "GitHub",
         "Docker",
