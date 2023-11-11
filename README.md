@@ -24,7 +24,8 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
         "Docker",
         "PostgreSQL",
         "MySQL",
-        "MongoDB"
+        "MongoDB",
+        "TypeORM",
     ]
 ```
 
