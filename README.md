@@ -10,22 +10,12 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
 
 ```js
     const technologies = [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "TypeScript",
-        "React.js",
-        "React Native",
-        "Node.js"
-        "Express.js",
-        "Nest.js",
-        "Git",
-        "GitHub",
-        "Docker",
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB",
-        "TypeORM",
+      languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+      frontEnd: ["React.js", "React Native"],
+      backEnd: ["Node.js", "Express.js", "Nest.js"],
+      versionControl: ["Git", "GitHub"],
+      containerization: ["Docker"],
+      databases: ["PostgreSQL", "MySQL", "MongoDB", "TypeORM", "Sequelize"],
     ]
 ```
 
