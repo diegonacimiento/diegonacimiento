@@ -14,7 +14,7 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
 
       frontEnd: ["React.js", "React Native", "React Router Dom V6", "React Navigation"],
 
-      backEnd: ["Node.js", "Express.js", "Nest.js"],
+      backEnd: ["Node.js", "Express.js", "Nest.js", "Passport.js", "JWT"],
 
       versionControl: ["Git", "GitHub"],
 
