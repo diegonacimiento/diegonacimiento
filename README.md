@@ -12,7 +12,7 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
     const technologies = [
       languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
 
-      frontEnd: ["React.js", "React Native", "React Router Dom V6", "React Navigation"],
+      frontEnd: ["Next.js", "React.js", "React Native", "React Router Dom V6", "React Navigation"],
 
       backEnd: ["Node.js", "Express.js", "Nest.js", "Passport.js", "JWT"],
 
