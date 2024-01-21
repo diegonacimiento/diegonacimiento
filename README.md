@@ -14,7 +14,7 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
 
       frontEnd: ["Next.js", "React.js", "React Native", "React Router Dom V6", "React Navigation"],
 
-      backEnd: ["Node.js", "Express.js", "Nest.js", "Passport.js", "JWT"],
+      backEnd: ["Nest.js", "Node.js", "Express.js", "Passport.js", "JWT"],
 
       versionControl: ["Git", "GitHub"],
 
@@ -45,12 +45,22 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
 
 [Backend](https://github.com/diegonacimiento/send-email) | [Frontend](https://github.com/diegonacimiento/calculator-register)
 
+### Velmar
+**Description**: Explore my ecommerce, where you can manage products, brands, and categories with secure user authentication and efficient order handling.
+
+**Key features:**
+- Intuitive Navigation: Easily explore products organized by categories and brands.
+- Efficient Management: Streamline the management of products, brands, and categories.
+- Comprehensive Security: Ensure a secure experience with user authentication and efficient order handling.
+
+[Backend](https://github.com/diegonacimiento/velmar-backend)
+
 ## Next Adventures 🚀
 I'm excited about the upcoming technologies I'm planning to learn:
 
-- **Next.js:** To build modern web applications with optimal performance.
-- **Nest.js:** To develop scalable and modular backends using TypeScript.
-- **MongoDB:** To explore NoSQL databases and their efficient integration with Node.js.
+- **Python:** To build modern web applications with optimal performance.
+- **AI:** Enter the world of artificial intelligence.
+- **English:** Improve my english level.
 
 If you've got a cool project in mind or just want to chat about code, hit me up! I'm always down for new challenges and collaborations.
 
