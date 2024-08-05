@@ -25,6 +25,16 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
 ```
 
 ## Featured Projects
+### Velmar
+**Description**: Explore my ecommerce, where you can manage products, brands, and categories with secure user authentication and efficient order handling.
+
+**Key features:**
+- Intuitive Navigation: Easily explore products organized by categories and brands.
+- Efficient Management: Streamline the management of products, brands, and categories.
+- Comprehensive Security: Ensure a secure experience with user authentication and efficient order handling.
+
+[Backend](https://github.com/diegonacimiento/velmar-backend) | [Frontend](https://github.com/diegonacimiento/velmar-frontend)
+
 ### Tasking
 **Description**: A full-stack task management application covering everything from the user interface to the database.
 
@@ -44,16 +54,6 @@ I'm a passionate full-stack programmer with an overflowing enthusiasm for code a
 - Integration of nodemailer for invoice sending.
 
 [Backend](https://github.com/diegonacimiento/send-email) | [Frontend](https://github.com/diegonacimiento/calculator-register)
-
-### Velmar
-**Description**: Explore my ecommerce, where you can manage products, brands, and categories with secure user authentication and efficient order handling.
-
-**Key features:**
-- Intuitive Navigation: Easily explore products organized by categories and brands.
-- Efficient Management: Streamline the management of products, brands, and categories.
-- Comprehensive Security: Ensure a secure experience with user authentication and efficient order handling.
-
-[Backend](https://github.com/diegonacimiento/velmar-backend)
 
 ## Next Adventures 🚀
 I'm excited about the upcoming technologies I'm planning to learn:
